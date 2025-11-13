@@ -6,9 +6,10 @@
     <test name="OpenCartTests">
         <classes>
             <class name="tests.RegisterTest"/>
-            <class name="tests.LoginTest"/>
-            <class name="tests.SearchAndAddTest"/>
+            <class name="tests.LoginWithExcelTest"/>
             <class name="tests.CartTest"/>
+            <class name="tests.SearchAndAddTest"/>
+            <class name="tests.CompraCompleteTest"/>
         </classes>
     </test>
 </suite>
