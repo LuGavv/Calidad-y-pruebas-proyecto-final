@@ -24,11 +24,11 @@ public class RegisterTest extends BaseTest {
         if (!Files.exists(Paths.get(path))) {
             List<Map<String,String>> rows = new ArrayList<>();
             Map<String,String> u = new LinkedHashMap<>();
-            u.put("First Name", "Alberto");
-            u.put("Last Name", "Perez");
-            u.put("E-Mail", "Alberto.perez+" + System.currentTimeMillis() + "@example.com");
-            u.put("Telephone", "5551234567");
-            u.put("Password", "Password123");
+            u.put("First Name", "Daniel");
+            u.put("Last Name", "Patino");
+            u.put("E-Mail", "Daniel.Patino+" + System.currentTimeMillis() + "@example.com");
+            u.put("Telephone", "3175600619");
+            u.put("Password", "Misterio2571!");
             rows.add(u);
             ExcelWriter.writeLogs(path, rows, "UsuariosRegistro");
         }
