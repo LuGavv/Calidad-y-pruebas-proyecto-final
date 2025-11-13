@@ -1,9 +1,9 @@
 # Proyecto Final: Calidad y Pruebas de Automatización Web
 ### Desarrollado por
-Daniel Felipe Patiño Triviño
-Dhens Haward Becerra Restrepo
-Luna Maria Gaviria Andrade
-Valentina Sarria Carreño
+- Daniel Felipe Patiño Triviño
+- Dhens Haward Becerra Restrepo
+- Luna Maria Gaviria Andrade
+- Valentina Sarria Carreño
 
 
 ## Descripción General del Proyecto
